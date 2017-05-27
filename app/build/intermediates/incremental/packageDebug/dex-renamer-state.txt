@@ -1,0 +1,7 @@
+#Sat May 27 23:17:12 IST 2017
+base.0=C\:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_398fc302d8d059f546206961f81e4d845bd3511f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d2d5dea4521064441fae0190fa6a5fe9f7187f42\\classes.dex
+base.1=C\:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d2d5dea4521064441fae0190fa6a5fe9f7187f42
+file.0=C\:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_398fc302d8d059f546206961f81e4d845bd3511f\\classes.dex

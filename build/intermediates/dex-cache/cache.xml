@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7b23012122294f08367ab5ec69a1c61293f49e12">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_398fc302d8d059f546206961f81e4d845bd3511f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_9f967be88fb5cc00507c731369ef791d7a8b7b6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\17b3f74c1879fd78f0923642ae97808efd5f4467\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_74f0db062c849466bf44480bac879bc5f512aba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\b71c12185f70e10e55cfc3f564194158a6574359\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_11b8e6cecddd15bc7bbe89f44fa23cf6c4b0414b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\caa2f1a024e3db5a2ee7d4d89c4aa0bdd40fe24a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_c3b8a502d3a0738b313ad0868a8f06b5fb7d8543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_011b2327a859c18ce28430c46b04ca54c31d7617.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\489f52929a8ee19ecb4f8f0f5272ce85c2b39032\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_70a70bd06c7f6c678ca981da5fa0bc730be8d776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\0b7aa4fdaddb8b2e9adc6f429e70a60c9d198594\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_0aab7ff8cc27db47fce97177e32e618ab9bd9644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\73aa9b8504e9f3582306dae0353ca7ba6da26e67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_87de4035325f7597d1aaed727005fc21c0cd893f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\60ecd5b9f647d81b8779a58ee92d90a241d695b8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_50f10cf17a43e4b20f8b80c613722dc15d8d8222.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\680516f67e9950ee13f769596794c77db47ce321\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_53ab00d001f90ed8ee512fffc3651b8bee720762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_916ad8e3c7cc32058d6b1955791d7cd55e70e1f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d2d5dea4521064441fae0190fa6a5fe9f7187f42\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\KATnapper\.android\build-cache\edfa83ade205bfb4f24fd760b4c3b4d897dba1fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\KATnapper\Desktop\GithubSearchApp\app\build\intermediates\pre-dexed\debug\classes_e49a79ce31b3cf730b4ddbf4e72044f9c1662cf1.jar" />
+    </item>
+
+</items>
