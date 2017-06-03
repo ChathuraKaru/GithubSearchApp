@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\Users\\KATnapper\\.android\\build-cache\\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\\output\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\KATnapper\\.android\\build-cache\\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\KATnapper\\.android\\build-cache\\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
