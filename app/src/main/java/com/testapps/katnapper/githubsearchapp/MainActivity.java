@@ -1,6 +1,7 @@
 package com.testapps.katnapper.githubsearchapp;
 
 import android.content.Context;
+import android.content.res.Configuration;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.support.v7.app.AppCompatActivity;
@@ -29,10 +30,13 @@ public class MainActivity extends AppCompatActivity implements displayResutls {
     ListView list;
     EditText searchText;
     Button search;
+    List<String> tempResults;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        if(savedInstanceState != null)
+            onRestoreInstanceState(savedInstanceState);
         list = (ListView) findViewById(R.id.lst_results);
         searchText = (EditText) findViewById(R.id.txtSearch);
         search = (Button) findViewById(R.id.btn_search);
@@ -45,6 +49,22 @@ public class MainActivity extends AppCompatActivity implements displayResutls {
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,results);
         list.setAdapter(adapter);
 
+    }
+
+    @Override
+    public void onConfigurationChanged(Configuration newConfig) {
+        super.onConfigurationChanged(newConfig);
+        tempResults = results;
+        setContentView(R.layout.activity_main);
+        initializeViews();
+    }
+
+    private void initializeViews(){
+        list = (ListView) findViewById(R.id.lst_results);
+        searchText = (EditText) findViewById(R.id.txtSearch);
+        search = (Button) findViewById(R.id.btn_search);
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,android.R.layout.simple_list_item_1,tempResults);
+        list.setAdapter(adapter);
     }
 
     public void showResults(JSONObject jsn){

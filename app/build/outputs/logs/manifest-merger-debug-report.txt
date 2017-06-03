@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
 		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManife
 	android:name
 		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:9:5-23:19
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:9:5-24:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KATnapper\.android\build-cache\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\KATnapper\.android\build-cache\73aa9b8504e9f3582306dae0353ca7ba6da26e67\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\KATnapper\.android\build-cache\17b3f74c1879fd78f0923642ae97808efd5f4467\output\AndroidManifest.xml:29:5-20
@@ -46,19 +46,21 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\KA
 	android:theme
 		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:15:9-40
 activity#com.testapps.katnapper.githubsearchapp.MainActivity
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:16:9-22:20
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:16:9-23:20
+	android:configChanges
+		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:17:13-74
 	android:name
 		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:16:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:17:13-21:29
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:18:17-69
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:18:25-66
+		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:20:17-77
+ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:20:27-74
+		ADDED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from C:\Users\KATnapper\Desktop\GithubSearchApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\KATnapper\.android\build-cache\2c05a0038aac3ee6973c42bdfbd3090cf67187ac\output\AndroidManifest.xml:21:5-23:78

@@ -1,4 +1,4 @@
-#Fri Jun 02 23:08:25 IST 2017
+#Sat Jun 03 23:18:53 IST 2017
 base.0=C\:\\Users\\KATnapper\\Desktop\\GithubSearchApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_398fc302d8d059f546206961f81e4d845bd3511f
 renamed.1=classes.dex
 renamed.0=classes2.dex
